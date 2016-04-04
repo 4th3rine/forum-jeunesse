@@ -1,12 +1,12 @@
-//milieu de vie
+/* milieu de vie */
 
 section.vie{
-    
+
 
 }
 
 .wrap {
-      //overflow: hidden;
+      overflow: hidden;
       margin: 40px;
       padding:40px;
     }

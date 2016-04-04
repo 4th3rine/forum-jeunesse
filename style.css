@@ -22,9 +22,9 @@ body{
     }
 
 
- //service
+ /* service */
 
-  #services{
+  #services {
     height:60vh;
     width:100vw;
     background-color:blue;
